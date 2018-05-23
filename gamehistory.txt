@@ -1,0 +1,11 @@
+GUESSING GAME HISTORY
+
+PLAYER 1			SCORE		PLAYER 2			SCORE		Stages		PLAY TIME
+Nana				1		Ferlin				2		2		Wed May 09 13:16:44 2018
+rafiul				1		alzy				1		2		Wed May 09 13:31:03 2018
+Manda				1		Linda				0		2		Wed May 09 13:35:25 2018
+Nicholas			4		Feli				5		5		Wed May 09 13:54:27 2018
+Ferlinda			1		Ferlita				2		2		Tue May 15 22:20:49 2018
+Aldi				1		Ronald				0		1		Tue May 15 22:31:07 2018
+AM				1		PM				0		1		Tue May 15 22:34:04 2018hai				0		hei				1		1		Wed May 16 13:46:41 2018
+Ferlinda			0		Nurjannah			1		1		Wed May 16 13:56:44 2018
